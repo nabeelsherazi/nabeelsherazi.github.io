@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Bee codes!</title>
+        <meta charset="utf-8" />
+        <link href="styles/index.css" type="text/css" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto|Slabo+27px" rel="stylesheet">
+        <!-- <link href="styles/bootstrap.min.css" type="text/css" rel="stylesheet" /> -->
+    </head>
+    <body>
+        <div id="page">
+            <form action="" method="get">
+                <p>Can I get some feedback about what you think?</p>
+                <input type="text" name="feedback" maxlength="140" />
+                <p>Overall your experience was:</p>
+                <input type="radio" name="experience" value="positive" checked="checked" /> Positive
+                <input type="radio" name="experience" value="negative" /> Negative
+                <input type="radio" name="experience" value="Unsure" /> Unsure
+                <p>Your favorite page was:</p>
+                <select name="favepage">
+                    <option value="definitions">Definitions</option>
+                    <option value="portfolio">Portfolio</option>
+                    <option value="tables">Tables</option>
+                    <option value="filesend">Send a file</option>
+                    <option value="confirm">Confirm information</option>
+                    <option value="play">Play with fun scripts</option>
+                    <option value="media">Enjoy fine media</option>
+                </select>
+                <br />
+                <br />
+                <input type="submit" value="Submit" />
+            </form>
+        </div> <!-- End full page div -->
+        <script src="scripts/jquery-3.21.min.js"></script>
+        <script src="scripts/bootstrap.min.js"></script>
+    </body>
+</html>
