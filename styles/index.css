@@ -50,6 +50,7 @@ div.nav-menu li {
     background-clip: border-box;
     font-family: 'Slabo 27px', serif;
     color: #fff;
+    font-size: 125%;
 }
 li>a:link, li>a:visited  {
     color: #fff;
