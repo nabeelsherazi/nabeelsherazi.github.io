@@ -1,5 +1,5 @@
 User-agent: *
-Sitemap: http://localhost:2371/sitemap.xml
+Sitemap: nabeelsherazi.github.io/sitemap.xml
 Disallow: /ghost/
 Disallow: /p/
 Disallow: /email/
