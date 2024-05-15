@@ -1,6 +1,8 @@
 ---
 category: thoughts
+created: 2024-03-23
 date: 2024-05-05 17:25:50.034687
+modified: 2024-05-15 02:26:33-07:00
 public: true
 title: what i'm trying to do
 ---
@@ -19,4 +21,4 @@ i have so many ideas that i've scavenged from the internet that i think are key 
 
 * there is not much time, live urgently, yolo, your hand is your hand, how hard will you go? the whiteboard gets erased at the end of the day.
 * it's you versus your mind sometimes, but maybe more useful as you plus your mind (treat it as a friend), and sometimes it's just you and your body, there is no mind independent (is that what eckhart tolle was trying to say?)
-* gamble everything for love if you are a true human being halfheartedness does not reach into majesty.hehe
+* gamble everything for love if you are a true human being halfheartedness does not reach into majesty.
